@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Example product — replace me",
+    "url": "https://example.com/product-page",
+    "selector": ".price",
+    "target_price": null
+  }
+]
