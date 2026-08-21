@@ -1,4 +1,11 @@
-[
+[[
+  {
+    "name": "Glade 3 Wick Candle - Cashmere Woods",
+    "url": "https://www.target.com/p/glade-3-wick-scented-candles-cashmere-woods-6-8oz/-/A-76375299",
+    "selector": "#above-the-fold-information > div > div:nth-child(5) > div > div > div:nth-child(1) > span > span.styles_currentPriceFontSize__qSy6z",
+    "target_price": null
+  }
+]
   {
     "name": "Example product — replace me",
     "url": "https://example.com/product-page",
