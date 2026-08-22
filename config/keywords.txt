@@ -2,5 +2,17 @@
 # A deal is reported if its title or summary contains ANY of these.
 # Be specific — "headphones" catches more than "Sony WH-1000XM5".
 
-Nvidia gaming computers 
-android phones 
+# NVIDIA gaming PCs / graphics cards
+nvidia
+rtx
+geforce
+gaming pc
+gaming desktop
+gaming laptop
+
+# Android phones
+android phone
+samsung galaxy
+google pixel
+oneplus
+motorola edge
