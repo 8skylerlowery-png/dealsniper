@@ -2,7 +2,5 @@
 # A deal is reported if its title or summary contains ANY of these.
 # Be specific — "headphones" catches more than "Sony WH-1000XM5".
 
-walmart
-electronics
-laptop
-headphones
+Nvidia gaming computers 
+android phones 
