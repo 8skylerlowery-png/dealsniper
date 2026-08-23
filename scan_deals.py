@@ -55,6 +55,7 @@ FEEDS = [
     ("Slickdeals - search: restaurant deal", "https://slickdeals.net/newsearch.php?rss=1&isUserSearch=1&q=restaurant+deal&searcharea=deals&searchin=first"),
     ("Slickdeals - search: fast food", "https://slickdeals.net/newsearch.php?rss=1&isUserSearch=1&q=fast+food&searcharea=deals&searchin=first"),
     ("Slickdeals - search: grocery", "https://slickdeals.net/newsearch.php?rss=1&isUserSearch=1&q=grocery&searcharea=deals&searchin=first"),
+    ("Slickdeals - search: price error", "https://slickdeals.net/newsearch.php?rss=1&isUserSearch=1&q=price+error&searcharea=deals&searchin=first"),
 
     # UNVERIFIED: this Brad's Deals feed address is several years old and
     # I couldn't fully confirm it's still live. It's safe to include —
