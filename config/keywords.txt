@@ -17,3 +17,24 @@ google pixel
 oneplus
 motorola edge
 
+# Restaurant deals/coupons
+restaurant deal
+bogo
+buy one get one
+dine in deal
+
+# Fast food deals
+mcdonalds deal
+taco bell deal
+chick-fil-a deal
+wendys deal
+burger king deal
+fast food deal
+
+# Grocery savings
+grocery deal
+grocery coupon
+supermarket sale
+kroger deal
+aldi deal
+walmart grocery
